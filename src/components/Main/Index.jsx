@@ -1,2 +1,9 @@
-import React from "react";
-import {screen, render} from "@testing-library/react";
+import React from 'react'
+
+const Main = () => {
+    return (
+        <div>hola no soy un title</div>
+    )
+}
+
+export default Index
